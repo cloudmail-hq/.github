@@ -15,6 +15,8 @@
 <p align="center">
   <a href="https://trycloudmail.com/pricing"><img src="./button-buy.svg" alt="Buy a licence, from $9" height="44"></a>
   &nbsp;
+  <a href="https://demo.trycloudmail.com"><img src="./button-demo.svg" alt="Try the live demo" height="44"></a>
+  &nbsp;
   <a href="https://trycloudmail.com"><img src="./button-site.svg" alt="Visit trycloudmail.com" height="44"></a>
 </p>
 
@@ -39,6 +41,6 @@ cloudmail is a complete webmail app that you deploy into **your own** Cloudflare
 | [cloudmail](https://github.com/cloudmail-hq/cloudmail) | The app, the Deploy to Cloudflare template, and CLI releases |
 | [skills](https://github.com/cloudmail-hq/skills) | The cloudmail Agent Skill for Claude Code, Codex, Cursor and others |
 
-**Website:** [trycloudmail.com](https://trycloudmail.com) · **Pricing:** [trycloudmail.com/pricing](https://trycloudmail.com/pricing) · **Video:** [watch on YouTube](https://youtu.be/X7BcVZdHAk8)
+**Website:** [trycloudmail.com](https://trycloudmail.com) · **Live demo:** [demo.trycloudmail.com](https://demo.trycloudmail.com) · **Pricing:** [trycloudmail.com/pricing](https://trycloudmail.com/pricing) · **Video:** [watch on YouTube](https://youtu.be/X7BcVZdHAk8)
 
 cloudmail is fair source under the [Fair Core License](https://github.com/cloudmail-hq/cloudmail/blob/main/LICENSE). It is not affiliated with Cloudflare.
